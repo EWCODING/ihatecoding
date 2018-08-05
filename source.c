@@ -85,6 +85,7 @@ void main (int argc, char* argv[])
 		fputs(" ",OutputFile);
 		fputs(nColumns,OutputFile);
 		fputs("\n",OutputFile);
+		fputs(MaxIntensity,OutputFile);
 
 
 
